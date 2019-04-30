@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import 'navigator/tab_navigator.dart';
-import 'dart:ui' show lerpDouble;
 
 void main() => runApp(MyApp());
 
